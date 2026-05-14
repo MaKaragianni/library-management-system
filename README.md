@@ -1,22 +1,19 @@
 # Library Management System (SQLite)
 
 ## Overview
-This project is a fully functional library management system built using Python and SQLite.
-
-It simulates real-world library operations such as user registration, book borrowing, and returns.
+A Python-based library system using SQLite that simulates borrowing and returning books.
 
 ---
 
 ## Features
-- User registration and login
-- Book catalog management
-- Borrowing system with due dates
-- Return system with late fee calculation
-- SQLite in-memory database
+- User registration
+- Book catalog
+- Borrow system with due dates
+- Return system with late fees
 
 ---
 
-## Tools
+## Technologies
 - Python
 - SQLite
 - datetime module
@@ -24,10 +21,9 @@ It simulates real-world library operations such as user registration, book borro
 ---
 
 ## Concepts
-- Object-Oriented Programming
-- Database management
+- Object-oriented programming
+- Database design
 - SQL queries in Python
-- CRUD operations
 
 ---
 
